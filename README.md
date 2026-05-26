@@ -26,24 +26,37 @@ Churn status
 📌 Dashboard Features
 
 ✅ Total Customers KPI
+
 ✅ Churn Rate Analysis
+
 ✅ Monthly Charges Insights
+
 ✅ Contract Type Analysis
+
 ✅ Customer Retention Overview
+
 ✅ Payment Method Distribution
+
 ✅ Interactive Filters & Slicers
+
 ✅ Pie/Donut Charts, Bar Charts & KPI Cards
 
 🛠️ Tools & Technologies
 
 Microsoft Power BI
+
 Excel / CSV Dataset
+
 Data Cleaning & Transformation
+
 Data Visualization
 
 📈 Key Insights
 
 Customers with month-to-month contracts show higher churn rates
+
 Higher monthly charges are associated with increased churn
+
 Electronic check payment users have higher churn probability
+
 Long-term contract customers are more likely to stay
