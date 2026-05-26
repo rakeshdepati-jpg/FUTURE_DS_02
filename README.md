@@ -60,3 +60,5 @@ Higher monthly charges are associated with increased churn
 Electronic check payment users have higher churn probability
 
 Long-term contract customers are more likely to stay
+
+![Dashboard Preview](dashboard-preview.png)
